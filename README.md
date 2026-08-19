@@ -33,9 +33,9 @@ Hi! I’m **HaloMaster6482**. I’m interested in **robotics, technology, and pr
 I started with simple games in **Scratch**, moved into **Python**, and now I build + program robots for competitions.
 
 **Signal log:**
-- 🏫 STEM student who likes robotics competitions and hands-on builds  
+- 🏫 STEM student who likes robotics competitions and hands-on builds.
 - 🤖 Main interest: robotics (**design + build + programming**)    
-- 🎮 Games: *Clash Royale* and *Roblox* is a favorite  
+- 🎮 Games: *Fortnite* and *Roblox* is a favorite.
 
 ---
 
@@ -52,15 +52,15 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-> If you’re browsing my GitHub, you’ll mostly see projects related to robotics, python, and web development.
+> If you’re browsing my GitHub, you’ll mostly see projects related to robotics, **python**, and web development.
 
 ---
 
 ## 🎯 OBJECTIVES (2026)
-- [x] 🛰️ Compete and improve in **WRO Robomission Junior 2026**
-- [ ] 🔧 Upgrade from Python into **Java** + **C++**
-- [x] 🚀 Publish more projects + track progress in public
-- [x] 📦 Learn how to create python packages and publish them
+- [x] 🛰️ Compete and improve in **WRO Robomission Junior 2026**.
+- [ ] 🔧 Learn **C++**.
+- [x] 🚀 Publish more projects + track progress in public.
+- [x] 📦 Learn how to create python packages and publish them.
 
 ---
 
