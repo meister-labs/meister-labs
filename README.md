@@ -2,7 +2,7 @@
 
 # meister-labs
 
-<b>STEM student</b> • <b>Robotics</b> • <b>Python</b> + <b>C/C++</b> + <b>Scratch</b>
+**STEM student** · **Robotics** · **Python** · **C/C++** · **Scratch**
 
 <a href="https://github.com/meister-labs">
   <img src="https://komarev.com/ghpvc/?username=meister-labs&color=00E5FF&style=for-the-badge" />
@@ -17,54 +17,64 @@
 <img src="https://img.shields.io/badge/FOCUS-ROBOTICS-7C4DFF?style=flat-square" />
 <img src="https://img.shields.io/badge/MODE-LEARN%20%26%20BUILD-00C853?style=flat-square" />
 
-
-
----
-
-## 🔗 Our WhatsApp Channel
-[**Steve Jobless 👓**](https://whatsapp.com/channel/0029VbDZ7Vh3mFY9iWpl303I)
 </div>
 
 ---
 
-## 🚀 PROFILE
-Hi! I’m **meister-labs**. I’m interested in **robotics, technology, and programming**, and I love building things that solve real problems.
+## About Me
 
-I started with simple games in **Scratch**, moved into **Python**, and now I build + program robots for competitions.
+Hi, I’m **meister-labs**. I’m a STEM student interested in robotics, programming, and technology. I enjoy building practical projects, learning new skills, and taking part in robotics competitions.
 
-**Signal log:**
-- 🏫 STEM student who likes robotics competitions and hands-on builds.
-- 🤖 Main interest: robotics (**design + build + programming**)    
-- 🎮 Games: *Chess* and *Roblox* is a favorite.
+I started by creating simple games in **Scratch**, then moved on to **Python**. I’m now expanding my knowledge of **C/C++** while designing and programming robots.
+
+### Interests
+
+- Robotics design, construction, and programming
+- Python, C/C++, and Scratch
+- Robotics competitions and hands-on projects
+- Chess and Roblox
 
 ---
 
-## ⚙️ STACK / MODULES
+## Skills and Tools
 
-### Languages
+### Programming Languages
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-### Robotics / Hardware
+### Robotics and Hardware
+
 <img src="https://img.shields.io/badge/LEGO%20SPIKE%20Prime-FFD500?style=for-the-badge&logo=lego&logoColor=000000" />
 
-### Next upgrades
+### Currently Exploring
+
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
-> If you’re browsing my GitHub, you’ll mostly see projects related to robotics, python, and web development.
+Most of the projects on this profile are related to robotics, Python, web development, and learning new programming concepts.
 
 ---
 
-## 🎯 OBJECTIVES (2026)
-- [x] 🛰️ Compete and improve in **WRO Robomission Junior 2026**.
-- [ ] 🔧 Learn **C++**.
-- [x] 🚀 Publish more projects + track progress in public.
-- [x] 📦 Learn how to create python packages and publish them.
+## Goals for 2026
+
+- [x] Compete and improve in **WRO RoboMission Junior 2026**
+- [ ] Continue learning **C++**
+- [x] Publish more projects and share my progress
+- [x] Learn how to create and publish Python packages
 
 ---
 
-## 😄 EXTRA DATA // FUN FACTS
+## Projects and Experience
 
-- I’ve built small games in Python & Scratch.
-- I'm learning C/C++.  
+- Built small games with Python and Scratch
+- Designed and programmed robots using LEGO SPIKE Prime
+- Continued developing skills in C and C++
+
+---
+
+## Connect
+
+You can follow my projects here on GitHub or join my WhatsApp channel:
+
+[**Steve Jobless 👓**](https://whatsapp.com/channel/0029VbDZ7Vh3mFY9iWpl303I)
