@@ -1,15 +1,14 @@
 <div align="center">
 
-# Hello World!👋
-## by HaloMaster6482
+# meister-labs
 
-<b>STEM student</b> • <b>Robotics</b> • <b>Python</b> + <b>Scratch</b>
+<b>STEM student</b> • <b>Robotics</b> • <b>Python</b> + <b>C/C++</b> + <b>Scratch</b>
 
-<a href="https://github.com/HaloMaster6482">
-  <img src="https://komarev.com/ghpvc/?username=HaloMaster6482&color=00E5FF&style=for-the-badge" />
+<a href="https://github.com/meister-labs">
+  <img src="https://komarev.com/ghpvc/?username=meister-labs&color=00E5FF&style=for-the-badge" />
 </a>
-<a href="https://github.com/HaloMaster6482?tab=followers">
-  <img src="https://img.shields.io/github/followers/HaloMaster6482?label=FOLLOW&style=for-the-badge&color=7C4DFF" />
+<a href="https://github.com/meister-labs?tab=followers">
+  <img src="https://img.shields.io/github/followers/meister-labs?label=FOLLOW&style=for-the-badge&color=7C4DFF" />
 </a>
 
 <br>
@@ -18,24 +17,25 @@
 <img src="https://img.shields.io/badge/FOCUS-ROBOTICS-7C4DFF?style=flat-square" />
 <img src="https://img.shields.io/badge/MODE-LEARN%20%26%20BUILD-00C853?style=flat-square" />
 
+
+
+---
+
+## 🔗 Our WhatsApp Channel
+[**Steve Jobless 👓**](https://whatsapp.com/channel/0029VbDZ7Vh3mFY9iWpl303I)
 </div>
 
 ---
 
-## 🔗 QUICK LINKS
-- 😸 **GitHub:** https://github.com/HaloMaster6482  
-- 🌐 **Website** https://halomaster6482.github.io
----
-
 ## 🚀 PROFILE
-Hi! I’m **HaloMaster6482**. I’m interested in **robotics, technology, and programming**, and I love building things that solve real problems.
+Hi! I’m **meister-labs**. I’m interested in **robotics, technology, and programming**, and I love building things that solve real problems.
 
 I started with simple games in **Scratch**, moved into **Python**, and now I build + program robots for competitions.
 
 **Signal log:**
 - 🏫 STEM student who likes robotics competitions and hands-on builds.
 - 🤖 Main interest: robotics (**design + build + programming**)    
-- 🎮 Games: *Fortnite* and *Roblox* is a favorite.
+- 🎮 Games: *Chess* and *Roblox* is a favorite.
 
 ---
 
@@ -44,15 +44,15 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
 ### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 ### Robotics / Hardware
 <img src="https://img.shields.io/badge/LEGO%20SPIKE%20Prime-FFD500?style=for-the-badge&logo=lego&logoColor=000000" />
 
 ### Next upgrades
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-> If you’re browsing my GitHub, you’ll mostly see projects related to robotics, **python**, and web development.
+> If you’re browsing my GitHub, you’ll mostly see projects related to robotics, python, and web development.
 
 ---
 
@@ -66,4 +66,5 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
 
 ## 😄 EXTRA DATA // FUN FACTS
 
-- I’ve built small games in Python & Scratch.  
+- I’ve built small games in Python & Scratch.
+- I'm learning C/C++.  
