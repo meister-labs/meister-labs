@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-labelledby="title">
+  <title id="title">meister-labs profile picture</title>
+  <defs>
+    <clipPath id="circle">
+      <circle cx="80" cy="80" r="80" />
+    </clipPath>
+  </defs>
+  <image
+    href="https://github.com/meister-labs.png?size=320"
+    x="0"
+    y="0"
+    width="160"
+    height="160"
+    preserveAspectRatio="xMidYMid slice"
+    clip-path="url(#circle)"
+  />
+</svg>
