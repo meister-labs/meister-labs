@@ -50,7 +50,7 @@ I started by creating simple games in **Scratch**, then moved on to **Python**. 
 
 ### Currently Exploring
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
 Most of the projects on this profile are related to robotics, Python, web development, and learning new programming concepts.
 
@@ -59,7 +59,7 @@ Most of the projects on this profile are related to robotics, Python, web develo
 ## Goals for 2026
 
 - [x] Compete and improve in **WRO RoboMission Junior 2026**
-- [ ] Continue learning **C++**
+- [x] Continue learning **C++**
 - [x] Publish more projects and share my progress
 - [x] Learn how to create and publish Python packages
 
