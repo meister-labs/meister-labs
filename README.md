@@ -1,14 +1,16 @@
 <div align="center">
 
+<img src="https://github.com/meister-labs.png?size=200" alt="meister-labs profile picture" width="160" height="160" />
+
 # meister-labs
 
 **STEM student** · **Robotics** · **Python** · **C/C++** · **Scratch**
 
 <a href="https://github.com/meister-labs">
-  <img src="https://komarev.com/ghpvc/?username=meister-labs&color=00E5FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=meister-labs&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </a>
 <a href="https://github.com/meister-labs?tab=followers">
-  <img src="https://img.shields.io/github/followers/meister-labs?label=FOLLOW&style=for-the-badge&color=7C4DFF" />
+  <img src="https://img.shields.io/github/followers/meister-labs?label=FOLLOWERS&style=for-the-badge&color=7C4DFF" alt="GitHub followers" />
 </a>
 
 <br>
