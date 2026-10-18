@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/meister-labs.png?size=200" alt="meister-labs profile picture" width="160" height="160" />
+<img src="https://github.com/meister-labs.png?size=200" alt="meister-labs profile picture" width="160" height="160" style="border-radius: 50%;" />
 
 # meister-labs
 
